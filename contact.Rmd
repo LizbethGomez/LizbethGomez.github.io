@@ -1,6 +1,4 @@
 ---
 title: "contact"
-author: "Lizbeth Gomez"
-date: "10/27/2019"
 output: html_document
 ---

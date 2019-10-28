@@ -1,7 +1,5 @@
 ---
-title: "menu"
-author: "Lizbeth Gomez"
-date: "10/27/2019"
+title: "Projects"
 output: html_document
 ---
 
