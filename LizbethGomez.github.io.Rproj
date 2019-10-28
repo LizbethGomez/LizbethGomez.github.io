@@ -11,3 +11,6 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
+
+BuildType: Website
+WebsitePath: ~/Desktop/CUMC-MPH/Fall 2019/Data Science /Homework_4/LizbethGomez.github.io
