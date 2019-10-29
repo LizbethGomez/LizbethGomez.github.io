@@ -7,4 +7,4 @@ output:
     theme: journal
 ---
 
-this is what im working on for my thesis and other projects
+For my masters thesis I have been working on 

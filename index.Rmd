@@ -1,9 +1,10 @@
 ---
 title: "Academic Profile"
 output: 
-  output:
-    tufte::tufte_html: 
-      toc: TRUE
+  html_document:
+    toc: true
+    toc_float: true
+    theme: journal
 ---
 
 My academic and professional journey has been very straightforward. I received my undergraduate degree in Biological Sciences and Chemistry from The City College of New York and am now in the second and last year of a masters in Public Health from Columbia's Mailman School of Public Health.
@@ -16,7 +17,7 @@ Columbia University Mailman School of Public Health					                        
 Master of Public Health
 
 City College of New York   
-Bachelor of Science in Biology, Minor: Chemistry   			    		                                                  June 2018 
+Bachelor of Science in Biology, Minor: Chemistry - Received  June 2018  
 Latin Honors: Cum Laude     
 Recipient, Dean’s List, 2015   
 
