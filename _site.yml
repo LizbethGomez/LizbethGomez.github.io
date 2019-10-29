@@ -1,12 +1,12 @@
 name: "Lizbeth Gomez"
 output_dir: "."
 navbar:
-  title: "Gomez Website"
+  title: "Lizbeth Gomez"
   left:
-    - text: "About"
-      href: about.html
     - text: "Academic Profile"
       href: index.html
+    - text: "About"
+      href: about.html
     - text: "Projects"
       href: menu.html
   right:
