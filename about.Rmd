@@ -1,4 +1,23 @@
 ---
 title: "About"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: journal
 ---
+#About me:
+
+I’m Lizbeth Gomez, a foodie and occasional writer based in New York.
+
+I study Public Health at Columbia, where I spend my time reading, doing research, and going to class. 
+
+I’ve done research with Dr. Navas Acien on the effects of Epigenetic changes on cardiovascular outcomes, especifically subcliical atherosclerosis and plaque. I recently also started my thesis with Dr. Marianthi Kioumourtzoglou looking at New York State wide pregnancy loss as a result of air pollution exposure. 
+
+My interests include:
+
+machine learning, both applied and theoretical
+cities, architecture, and space
+institutions and emerging markets
+classical conceptions of virtue
+
