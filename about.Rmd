@@ -6,7 +6,7 @@ output:
     toc_float: true
     theme: journal
 ---
-#About me:
+About me:
 
 I’m Lizbeth Gomez, a foodie and occasional writer based in New York.
 
@@ -16,8 +16,10 @@ I’ve done research with Dr. Navas Acien on the effects of Epigenetic changes o
 
 My interests include:
 
-machine learning, both applied and theoretical
-cities, architecture, and space
-institutions and emerging markets
-classical conceptions of virtue
+- Maternal Health 
+- Cities, Architecture, and Apace
+- Environmental Health and Sustainability Efforts
+- classical Conceptions of Virtue
+
+
 
