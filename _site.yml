@@ -3,10 +3,10 @@ output_dir: "."
 navbar:
   title: "Lizbeth Gomez"
   left:
-    - text: "Academic Profile"
-      href: index.html
     - text: "About"
       href: about.html
+    - text: "Academic Profile"
+      href: index.html
     - text: "Projects"
       href: menu.html
   right:
