@@ -1,10 +1,67 @@
 ---
 title: "Academic Profile"
 output: 
-  html_document:
-    toc: true
-    toc_float: true
-    theme: journal
+  output:
+    tufte::tufte_html: 
+      toc: TRUE
 ---
 
-this is where my cv will go
+My academic and professional journey has been very straightforward. I received my undergraduate degree in Biological Sciences and Chemistry from The City College of New York and am now in the second and last year of a masters in Public Health from Columbia's Mailman School of Public Health.
+
+More detail information about this journey can be found below:
+
+**EDUCATION**
+
+Columbia University Mailman School of Public Health					                                             Exp. June 2020   
+Master of Public Health
+
+City College of New York   
+Bachelor of Science in Biology, Minor: Chemistry   			    		                                                  June 2018 
+Latin Honors: Cum Laude     
+Recipient, Dean’s List, 2015   
+
+**EXPERIENCE**
+
+*Administrative Assistant, PrIMER		 				                                                           	New York, NY*      
+Columbia University Mailman School of Public Health                                       	                May 2018- Present
+
+- Mentoring undergraduate research trainees in the Environmental Health Sciences PrIMER program   
+- Designing and co-leading weekly professional development workshops for trainees  
+- Creating, collecting and analyzing survey data to evaluate program outcomes
+
+*Research Fellow, IPE SL Puerto Rico		 				              	- New York, NY*           
+Columbia University Mailman School of Public Health           November 2018- Present
+
+- Develop a research plan to assess the health of Puerto Rico’s population in terms of asthma 
+- Collaborate with interprofessional research fellows on health assessment development and implementation 
+- Assist in the development of a deployment plan based on the community needs and census data 
+- Conduct surveys and interact with the community to assess pediatric asthma prevalence in San Juan 
+
+*Research Assistant										                               - Bronx, NY*            
+Montefiore Medical Center							    April 2018- September 2018 
+
+- Conducted qualitative research on electronic consent forms using a newly built Biobank 
+- Assisted with the data collection process, by administering blind study surveys
+- Recruited participants in health clinics in the Bronx who expressed interest in participating in a Biobank
+- Tasked with organizing and conducting focus groups.
+
+*Research Trainee                                                						- New York, NY*              
+Columbia University Mailman School of Public Health                         June 2017-June 2018
+
+- Selected for a training experience in a NIEHS funded program to obtain experience in graduate level research  
+- Conducted a Cardiovascular Disease and Epigenetic Systematic literature review  
+- Developed a research strategy for a systematic literature review  
+- Used EndNote, MATLAB and SAS to analyze data obtained in literature review  
+
+*Data Analyst                                                                                    -	New York, NY*       
+Mount Sinai Health System                                                             Research August 2015 - January 2017
+
+- Conducted surveys for the Minority Outreach Recruitment Study to identify breast and cervical cancer    
+- Developed support activities to increase adherence to screening guidelines in the community   
+- Organized events to increase awareness of the importance of screening for cancer   
+- Imparted seminars for the Esperanza y Vida breast and cervical cancer education program  
+
+**SKILLS**
+
+- Productivity: Wordfast, Endnote, Microsoft and Google Suites, MatLab, R, SAS 
+- Language: Bilingual Spanish and English, Basic French
