@@ -8,18 +8,20 @@ output:
 ---
 **About me:**
 
+![](47936543.jpeg)
+
 I’m Lizbeth Gomez, a foodie and occasional writer based in New York.
 
 I study Public Health at Columbia, where I spend my time reading, doing research, and going to class. 
 
 I’ve done research with Dr. Navas Acien on the effects of Epigenetic changes on cardiovascular outcomes, especifically subcliical atherosclerosis and plaque. I recently also started my thesis with Dr. Marianthi Kioumourtzoglou looking at New York State wide pregnancy loss as a result of air pollution exposure. 
 
-**My interests include:**
+## **My interests include:**
 
 - Maternal Health 
-- Cities, Architecture, and Apace
+- Cities, Architecture, and Space
 - Environmental Health and Sustainability Efforts
-- classical Conceptions of Virtue
+- Classical Conceptions of Virtue
 
 
 

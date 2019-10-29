@@ -7,4 +7,6 @@ output:
     theme: journal
 ---
 
-For my masters thesis I have been working on 
+For my masters thesis I have been working on the effects of PM 2.5 and NO2 in pregnancy outcomes in New York State. 
+
+## update this a bit more or take out!

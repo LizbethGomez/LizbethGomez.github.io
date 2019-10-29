@@ -11,7 +11,7 @@ My academic and professional journey has been very straightforward. I received m
 
 More detail information about this journey can be found below:
 
-**EDUCATION**
+## **EDUCATION**
 
 Columbia University Mailman School of Public Health					                                             Exp. June 2020   
 Master of Public Health
@@ -21,7 +21,7 @@ Bachelor of Science in Biology, Minor: Chemistry - Received  June 2018
 Latin Honors: Cum Laude     
 Recipient, Dean’s List, 2015   
 
-**EXPERIENCE**
+## **EXPERIENCE**
 
 *Administrative Assistant, PrIMER		 				                                                           	New York, NY*      
 Columbia University Mailman School of Public Health                                       	                May 2018- Present
@@ -62,7 +62,7 @@ Mount Sinai Health System                                                       
 - Organized events to increase awareness of the importance of screening for cancer   
 - Imparted seminars for the Esperanza y Vida breast and cervical cancer education program  
 
-**SKILLS**
+## **SKILLS**
 
 - Productivity: Wordfast, Endnote, Microsoft and Google Suites, MatLab, R, SAS 
 - Language: Bilingual Spanish and English, Basic French
