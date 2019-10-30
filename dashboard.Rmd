@@ -14,7 +14,7 @@ library(p8105.datasets)
 library(plotly)
 ```
 
-# Data cleaning for dataset
+# Plots
 ```{r}
 data("rest_inspec")
 ```
@@ -24,7 +24,8 @@ rest_inspec =
  rest_inspec %>% 
   select(boro, score,cuisine_description,inspection_date, grade, grade_date, zipcode) %>% 
   filter(
-    !is.na(score))
+    !is.na(score)) 
+    
 
 
 
@@ -77,6 +78,5 @@ rest_inspec%>%
 
 ```{r}
 rest_inspec %>% 
-  group_by(boro) %>% 
-  plot_ly(x = ~grade, y = ~boro, color = ~grade, type = "bar")
+  plot_ly(x = ~grade, y = ~score, color = ~score, type = "scatter", mode = "markers")
 
