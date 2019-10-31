@@ -7,8 +7,6 @@ navbar:
       href: about.html
     - text: "Academic Profile"
       href: index.html
-    - text: "Projects"
-      href: menu.html
     - text: "Dashboard"
       href: dashboard.html
   right:
