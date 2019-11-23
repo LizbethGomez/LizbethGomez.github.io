@@ -1,0 +1,45 @@
+---
+title: "Amateur Poetry"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: journal
+---
+
+## **As time passes ... **
+
+As time passes…   
+
+
+I feel so low  
+Searching for clues,  
+Covering up the holes  
+
+I'll fight for your love, I'll fight for your soul  
+I'll throw all of my cares away for you  
+I'll be there to wait for you  
+
+Maybe you weren't the one for me  
+But deep down I wanted you to be  
+
+I'll still see you in my dreams  
+All the things that I did for you,   
+Just I wasn't it for you  
+
+Moving on seems harder to do  
+When the one that you love moves faster than you  
+
+I gave you my all, I showed the proof of your lies  
+And you weren't worth it, you don't deserve me  
+
+As time passes I'm feeling kinda light  
+You're not the one I'm thinking of tonight  
+
+I may not be over you, but I'll try inside  
+I'm feeling better now, finally feeling special now  
+
+
+I noticed you weren't the one for me  
+You weren't the one for me.  
+

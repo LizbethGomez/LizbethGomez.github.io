@@ -7,8 +7,8 @@ navbar:
       href: about.html
     - text: "Academic Profile"
       href: index.html
-    - text: "Dashboard"
-      href: dashboard.html
+    - text: "Amateur Writing"
+      href: Amateur Poetry.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<lg2982@columbia.edu>
