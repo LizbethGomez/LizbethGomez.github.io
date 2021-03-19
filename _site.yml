@@ -19,7 +19,12 @@ navbar:
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/lizbeth-gomez
 output:
-  html_document:
-    toc: true
-    toc_float: true
-    theme: journal
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: skeleton.bib
+link-citations: yes
