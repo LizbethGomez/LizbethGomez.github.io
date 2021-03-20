@@ -7,9 +7,7 @@ html_document:
 ---
 
 
-<img src="Lgomez.png" style="width:50%">
-
-
+<center><img src="Lgomez.png" style="width:50%">
 
 
 I'm Lizbeth, a PhD student in Environmental and Occupational Health at Dornsife School of Public Health. I am originally from the Dominican Republic. Over the years I’ve developed a loving relationship with public health research and environmental justice.  
