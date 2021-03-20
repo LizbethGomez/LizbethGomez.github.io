@@ -17,7 +17,7 @@ navbar:
       href: https://twitter.com/lizbethgomez199
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/lizbeth-gomez
-    - icon: fa-orcid fa-lg
+    - icon: fa-orcidlogo fa-lg
       href: https://orcid.org/0000-0003-3725-7531
 output:
   html_document:
