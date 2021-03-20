@@ -8,7 +8,7 @@ navbar:
     - text: "CV"
       href: about.html
     - text: "Projects"
-      href: Amateur Poetry.html
+      href: projects.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<lg2982@columbia.edu>

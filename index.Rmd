@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 output: 
   html_document:
     toc: true
@@ -7,12 +7,10 @@ output:
     theme: paper
 ---
 
-**About me:**
-
 ![](Lgomez.png)
 
 
-## Hello, welcome to my website. 
+## **Hello, welcome to my website** 
 
 I'm Lizbeth, a PhD student in Environmental and Occupational Health at Dornsife School of Public Health. I am originally from the Dominican Republic. Over the years I’ve developed a loving relationship with public health research and environmental justice.  
 
