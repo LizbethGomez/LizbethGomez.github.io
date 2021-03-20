@@ -4,13 +4,13 @@ output:
 html_document:
   toc: true
   toc_float: true 
-
 ---
+
 
 <img src="Lgomez.png" style="width:50%">
 
 
-<center>Hello, welcome to my website** 
+
 
 I'm Lizbeth, a PhD student in Environmental and Occupational Health at Dornsife School of Public Health. I am originally from the Dominican Republic. Over the years I’ve developed a loving relationship with public health research and environmental justice.  
 
@@ -18,9 +18,8 @@ My academic and professional journey has been very straightforward. I received m
 
 
 My interests include:
-
-- Social and environmental deteminants of health 
-- Cities, Architecture, and Space
-- Environmental Health and Sustainability Efforts
-- Classical Conceptions of Virtue
-- Pediatric asthma exacerbation etiology
+Social and environmental deteminants of health 
+Cities, Architecture, and Space
+Environmental Health and Sustainability Efforts
+Classical Conceptions of Virtue
+Pediatric asthma exacerbation etiology
