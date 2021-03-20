@@ -4,6 +4,9 @@ output:
 html_document:
   toc: true
   toc_float: true 
+pagetitle: GIS Poster
 ---
 
-<center>![](Lizbeth Gomez GIS Poster.pdf){width=5000px}
+
+
+\includegraphics[]{Lizbeth Gomez GIS Poster.pdf}
