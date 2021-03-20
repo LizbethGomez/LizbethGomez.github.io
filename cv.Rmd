@@ -7,4 +7,7 @@ html_document:
 pagetitle: CV
 ---
 
-<center><img src="LizbethGomez_CV.png" style="width:100%">
+<object data="LizbethGomez_CV.pdf" width="1000px" height="1000px">
+    <embed src="LizbethGomez_CV.pdf">
+    </embed>
+</object>
