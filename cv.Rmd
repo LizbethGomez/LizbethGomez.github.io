@@ -6,4 +6,4 @@ html_document:
   toc_float: true 
 ---
 
-<center><img src="LizbethGomez_CV.pdf">
+<center>![](LizbethGomez_CV.pdf){width=500px}
