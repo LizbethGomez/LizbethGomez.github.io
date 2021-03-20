@@ -7,7 +7,7 @@ navbar:
       href: about.html
     - text: "Academic Profile"
       href: index.html
-    - text: "Amateur Writing"
+    - text: "Projects"
       href: Amateur Poetry.html
   right:
     - icon: fa-envelope fa-lg
