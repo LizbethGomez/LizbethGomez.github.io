@@ -20,7 +20,6 @@ navbar:
 output:
   html_document:
     theme: yeti
-    highlight: textmate
     include:
       after_body: ORCID.html
     css: styles.css
