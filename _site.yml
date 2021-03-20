@@ -7,7 +7,7 @@ navbar:
       href: cv.html
     - text: "Projects"
       menu: 
-        - text: "GIS"
+        - text: "Air Pollution Neonatal Death"
         - href: GIS.html
     - icon: fa-envelope fa-lg
       href: mailto:<lg2982@columbia.edu>
