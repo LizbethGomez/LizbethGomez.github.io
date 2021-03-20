@@ -1,0 +1,8 @@
+---
+title: <center></center>
+output: 
+html_document:
+  toc: true
+  toc_float: true 
+---
+<center><img src="Lizbeth Gomez GIS Poster.pdf">

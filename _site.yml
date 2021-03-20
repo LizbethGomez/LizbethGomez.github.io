@@ -1,15 +1,14 @@
 name: "Lizbeth Gomez"
 output_dir: "."
 navbar:
-  title: "Lizbeth Gomez"
-  left:
-    - text: "About"
-      href: index.html
-    - text: "CV"
-      href: about.html
-    - text: "Projects"
-      href: projects.html
+  title: "Home"
   right:
+    - text: "CV"
+      href: cv.html
+    - text: "Projects"
+       menu: 
+      - text: "GIS"
+      - href: GIS.html
     - icon: fa-envelope fa-lg
       href: mailto:<lg2982@columbia.edu>
     - icon: fa-github fa-lg
@@ -23,3 +22,4 @@ output:
     toc: true
     toc_float: false
     theme: paper
+    
