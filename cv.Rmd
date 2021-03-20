@@ -4,6 +4,10 @@ output:
 html_document:
   toc: true
   toc_float: true 
+pagetitle: CV
 ---
 
-<center>![](LizbethGomez_CV.pdf){width=5000px}
+<object data="LizbethGomez_CV.pdf" width="1000px" height="1000px">
+    <embed src="LizbethGomez_CV.pdf">
+    </embed>
+</object>
