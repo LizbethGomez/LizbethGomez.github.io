@@ -6,4 +6,4 @@ html_document:
   toc_float: true 
 ---
 
-<center>![](Lizbeth Gomez GIS Poster.pdf){width=500px}
+<center>![](Lizbeth Gomez GIS Poster.pdf){width=5000px}
