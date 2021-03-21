@@ -10,7 +10,7 @@ navbar:
         - text: "Air Pollution Neonatal Death"
         - href: GIS.html
     - icon: fa-envelope fa-lg
-      href: mailto:<lg2982@columbia.edu>
+      href: mailto:<lg688@drexel.edu>
     - icon: fa-github fa-lg
       href: https://github.com/LizbethGomez
     - icon: fa-twitter fa-lg
@@ -19,6 +19,7 @@ navbar:
       href: https://www.linkedin.com/in/lizbeth-gomez
 output:
   html_document:
+    toc: true
     theme: yeti
     include:
       after_body: ORCID.html
