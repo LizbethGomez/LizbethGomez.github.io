@@ -5,9 +5,9 @@ navbar:
   right:
     - text: "CV"
       href: cv.html
-    - text: "Projects"
+    - text: "Research"
       menu: 
-        - text: "Air Pollution Neonatal Death"
+        - text: "Air Pollution"
         - href: GIS.html
     - icon: fa-envelope fa-lg
       href: mailto:<lg688@drexel.edu>
