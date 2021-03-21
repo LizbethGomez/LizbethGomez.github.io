@@ -19,8 +19,6 @@ navbar:
       href: https://www.linkedin.com/in/lizbeth-gomez
 output:
   html_document:
-    toc: true
-    toc_float: true 
     theme: yeti
     
     
