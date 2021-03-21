@@ -22,5 +22,4 @@ output:
     theme: yeti
     include:
       after_body: ORCID.html
-    css: styles.css
     
