@@ -22,6 +22,5 @@ output:
     toc: true
     toc_float: true 
     theme: yeti
-    include:
-      after_body: ORCID.html
+    
     

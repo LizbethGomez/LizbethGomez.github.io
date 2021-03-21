@@ -14,4 +14,4 @@ pagetitle: Home
 I'm Lizbeth, a PhD student in Environmental and Occupational Health at Drexel Dornsife School of Public Health. I am originally from the Dominican Republic. Over the years I’ve developed a loving relationship with public health research and environmental justice. I like to spend my free time hiking, gardening and exploring the great outdoors.
 
 
-
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3725-7531" href="https://orcid.org/0000-0003-3725-7531" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3725-7531</a></div>
